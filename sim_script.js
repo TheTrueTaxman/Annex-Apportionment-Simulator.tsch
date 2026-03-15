@@ -275,7 +275,7 @@ const App = {
     ㅤ__________________________________________________________________________________________________________
     
     <p class="mb-4 text-sm text-gray-700">
-      Sample data is from Tschabelia's 2020 Chamber of Deputies Election
+      Sample data is from Tschabelia's 2021 Chamber of Deputies Election
     </p>
 
     <!-- Error Message -->
